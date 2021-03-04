@@ -1,0 +1,10 @@
+pandas==1.0.1
+stop-words==2018.7.23
+dash==1.13.3
+dash-core-components==1.10.1
+dash-html-components==1.0.3
+dash-renderer==1.5.0
+dash-table==4.8.1
+plotly==4.9.0
+
+
